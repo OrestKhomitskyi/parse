@@ -1,0 +1,6 @@
+{
+    "require": {
+        "electrolinux/phpquery": "^0.9.6",
+        "phpoffice/phpexcel": "^1.8"
+    }
+}
